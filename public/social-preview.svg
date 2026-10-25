@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#d5cfc2" stroke-width="0.6"/></pattern></defs>
+  <rect width="1200" height="630" fill="#F4F0E8"/>
+  <rect x="810" y="55" width="335" height="520" fill="url(#grid)"/>
+  <path d="M55 110H1145 M55 550H1145" stroke="#c9c2b4"/>
+  <text x="57" y="79" font-family="Arial,DejaVu Sans,sans-serif" font-size="28" fill="#1E2423" font-weight="bold">va<tspan fill="#C55337">.</tspan></text>
+  <text x="124" y="76" font-family="monospace" font-size="14" letter-spacing="3" fill="#1E2423">BUILDER’S FIELD NOTES</text>
+  <text x="59" y="185" font-family="monospace" font-size="18" letter-spacing="2" fill="#2D5C51">VIKRAM ADITYA</text>
+  <g font-family="Arial,DejaVu Sans,sans-serif" font-size="66" font-weight="bold" letter-spacing="-2" fill="#1E2423"><text x="55" y="275">Teams. Systems.</text><text x="55" y="356" fill="#B3442C">Real customer</text><text x="55" y="437" fill="#B3442C">problems.</text></g>
+  <text x="59" y="503" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#62645D">AI · Fintech · Engineering leadership</text>
+  <circle cx="983" cy="310" r="106" fill="#F4F0E8" stroke="#2D5C51" stroke-width="2"/>
+  <circle cx="983" cy="310" r="148" fill="none" stroke="#2D5C51" stroke-width="1" stroke-dasharray="6 8"/>
+  <path d="M936 349l92-83m-37 0h37v37" fill="none" stroke="#C55337" stroke-width="6"/>
+  <text x="59" y="592" font-family="monospace" font-size="16" fill="#1E2423">FIVE PROJECTS / A JOURNEY / WHAT’S NEXT</text>
+  <text x="873" y="592" font-family="monospace" font-size="14" fill="#62645D">vikramaditya10.github.io/me</text>
+</svg>
