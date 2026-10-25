@@ -39,14 +39,14 @@ The build pre-renders the React content to HTML before adding client-side intera
 
 ## Content review
 
-The portfolio prompt is the source of truth for this version, superseding the earlier resume where they differ.
+The portfolio prompt and subsequent owner corrections are the sources of truth for this version, superseding the earlier resume where they differ.
 
 - The five project selections are suggested, not confirmed favourites. The public heading is “Five projects I’ve built”. Each project's `editorial` metadata records its suggested selection and draft reflection status without adding that editorial wording to the page.
 - Review and personalise each project's `reflection` field before treating it as final personal copy.
-- The timeline uses Sumato Globaltech in 2017–2019 and Surdtech in 2019–2022. The crew project is SpiceJet; Tea Board India is attributed to Sumato Globaltech.
+- The timeline uses one Surdtech founder tenure from 2017–2022. Tea Board India ERP, stakeholder applications, e-commerce, the voice-enabled concierge, airline systems, municipal ERP and forecasting all sit under Surdtech. The crew project is SpiceJet.
 - MyCards figures are supplied experience figures, not a live feed. Audit completion is described without implying RBI certification, particular controls, findings, or UAE regulatory expertise.
 - `availability.noticePeriod`, `availability.earliestStartDate`, and `availability.relocationTiming` are initially `null`. The website hides empty fields. Add only confirmed details.
-- The supplied PDF is retained unchanged. Its older airline attribution and career chronology differ from the new prompt; update that document separately when ready. No new resume was fabricated. If the root PDF is absent at build time, the download action is hidden. Replacing it under the same filename updates the next deployment.
+- The supplied PDF is retained unchanged. Its older airline attribution differs from the website; update that document separately when ready. No new resume was fabricated. If the root PDF is absent at build time, the download action is hidden. Replacing it under the same filename updates the next deployment.
 - All locations, suggestions, flight assignments and conversations in interactive examples are fictional and labelled illustrative.
 
 ## GitHub Pages deployment

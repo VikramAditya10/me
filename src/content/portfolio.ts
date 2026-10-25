@@ -90,10 +90,10 @@ export const portfolio = {
       editorial: suggested,
     },
     {
-      id: 'tea-board', number: '05', name: 'Tea Board India ERP', employer: 'Sumato Globaltech',
+      id: 'tea-board', number: '05', name: 'Tea Board India ERP', employer: 'Surdtech',
       theme: 'Enterprise workflows · Connected systems', role: 'ERP & application development',
       problem: 'Track tea production and sales across stakeholder groups with different reporting and operational needs.',
-      owned: 'At Sumato Globaltech, I developed the ERP platform, stakeholder dashboards, reporting systems and four Android applications.',
+      owned: 'At Surdtech, I developed the ERP platform, stakeholder dashboards, reporting systems and four Android applications.',
       built: 'We connected workflows for Tea Board employees, tea growers, aggregators and factories, bringing their production, sales and reporting needs into one platform.',
       proof: 'Four Android applications · Connected ERP',
       evidence: 'The delivered scope included the ERP, stakeholder dashboards, reporting systems and four Android applications.',
@@ -104,8 +104,7 @@ export const portfolio = {
   journey: [
     { id: 'shopclues', date: '2012–2013', company: 'ShopClues', role: 'Analyst', summary: 'Customer operations and logistics; NLP-based email sentiment analysis to support customer-service prioritisation.', note: 'The starting point: using software to understand customer signals and support operational decisions.', project: null },
     { id: 'software-ag', date: '2016–2017', company: 'Software AG', role: 'Software Engineer / Consultant', summary: 'Java and Selenium automation, AngularJS interfaces and Jenkins integration; research into ML and NLP for automated test generation.', note: 'My scope moved into engineering tools, test automation and the potential of ML and NLP in software delivery.', project: null },
-    { id: 'sumato', date: '2017–2019', company: 'Sumato Globaltech', role: 'Software Engineer', summary: 'Tea Board India ERP, stakeholder applications, e-commerce platforms and a voice-enabled concierge using Amazon Transcribe.', note: 'I worked across enterprise workflows and the applications that different stakeholders needed to use them.', project: 'tea-board' },
-    { id: 'surdtech', date: '2019–2022', company: 'Surdtech', role: 'Founder & Head of Technology', summary: 'Hiring, team building, architecture, enterprise delivery and infrastructure; airline systems, municipal ERP and Prophet-based demand forecasting.', note: 'As a founder, my responsibility grew from implementation to the people, architecture and delivery behind a business.', project: 'crew' },
+    { id: 'surdtech', date: '2017–2022', company: 'Surdtech', role: 'Founder & Head of Technology', summary: 'Hiring, team building, architecture, enterprise delivery and infrastructure; Tea Board India ERP and stakeholder applications, e-commerce platforms, a voice-enabled concierge using Amazon Transcribe, airline systems, municipal ERP and Prophet-based demand forecasting.', note: 'As a founder, my responsibility grew from implementation to the people, architecture and delivery behind a business. I connected enterprise workflows with the applications that different stakeholders needed to use them.', project: 'crew' },
     { id: 'reward360', date: '2022–present', company: 'Reward360', role: 'Staff Engineer', summary: 'Large-scale fintech systems, team leadership, MyCards, lending integrations and applied AI initiatives.', note: 'I bring architecture, security and compliance requirements, and cross-functional engineering delivery together around financial products.', project: 'mycards' },
   ],
   education: [

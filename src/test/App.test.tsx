@@ -90,8 +90,8 @@ describe('Conceptual interactions', () => {
   it('keeps timeline dates and scope visible and lets readers expand the field note', async () => {
     render(<App/>);
     const user = userEvent.setup();
-    expect(screen.getByText('2019–2022')).toBeTruthy();
-    const description = screen.getByText(portfolio.journey[3].summary);
+    expect(screen.getByText('2017–2022')).toBeTruthy();
+    const description = screen.getByText(portfolio.journey.find(item => item.id === 'surdtech')!.summary);
     const details = description.closest('details')!;
     expect(details.open).toBe(false);
     await user.click(details.querySelector('summary')!);
